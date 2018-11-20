@@ -8,6 +8,8 @@ import numpy as np
 import operator
 
 
+#code edit
+
 class MajorityVoteClassifier(BaseEstimator,
                              ClassifierMixin):
     
