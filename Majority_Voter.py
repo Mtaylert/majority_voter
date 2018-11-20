@@ -9,7 +9,7 @@ import operator
 
 
 #code edit
-
+#code edit 2 -MTaylert
 class MajorityVoteClassifier(BaseEstimator,
                              ClassifierMixin):
     
